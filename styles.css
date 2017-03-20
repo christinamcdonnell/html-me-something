@@ -1,0 +1,81 @@
+html {
+	margin: 10px;
+	padding: 0;
+	}
+
+title {
+    font-size: 34px;
+    font-family: Georgia;
+    text-align: center;
+    color: #871427;
+}
+
+body {
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: black;
+	background: #72BCC9;
+	padding: 0;
+    margin-top: 10px;
+    margin-left: 50px;
+	text-align: center;
+	}
+
+#navlinks {
+    font-size: 16px;
+    font-family: Georgia;
+    text-align: left;
+    color: #871427;
+}
+nav {
+    padding-bottom:70px;
+    color:black;
+}
+p {
+	margin-top: 0;
+    margin-left: 50px;
+	}
+h2 {
+	font: italic normal georgia, sans-serif;
+	letter-spacing: 1px;
+	margin-bottom: 0;
+	color: #7D775C;
+	}
+
+.member_name {
+    font: italic normal Century, georgia, sans-serif;
+    font-size:25px;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    color: #7D775C;
+}
+
+header {
+
+}
+
+footer {
+    text-align: center;
+}
+
+article {
+
+}
+
+main {
+
+}
+
+img {
+    border:5px solid black;
+    border-radius: 6px;
+}
+
+#last-pic {
+    margin-bottom: 16px
+}
+
+footer p {
+    font-size:9px;
+    color:555753;
+}
